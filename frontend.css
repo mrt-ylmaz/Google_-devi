@@ -1,0 +1,47 @@
+.Üstbuton {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 10px;
+    font-size: smaller;
+}
+
+.navbar-brand {
+    color: rgb(5, 5, 5);
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.altbuton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: larger;
+}
+
+.altbuton .btn {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-size: small;
+    background-color: rgb(239, 241, 243);
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.altbar {
+    display: flex;
+    background-color: rgb(236, 230, 230);
+    justify-content: flex-start;
+    align-items: self-end;
+    margin-top: 180px;
+    padding: 9px;
+}
+
+.arama {
+
+}
